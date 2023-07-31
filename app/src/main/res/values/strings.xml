@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PPBMP3-Tugasv2</string>
+    <string name="title">Pertambahan</string>
+    <string name="nilai_pertama">Nilai Pertama</string>
+    <string name="nilai_kedua">Nilai Kedua</string>
+    <string name="add">+</string>
+    <string name="hasil">Hasil</string>
+    <string name="linier_layout">Linier Layout</string>
+    <string name="img">img</string>
+    <string name="img1">img1</string>
+    <string name="img3">img3</string>
+    <string name="img4">img4</string>
+</resources>
